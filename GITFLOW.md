@@ -22,3 +22,9 @@ git checkout dev
 git fetch origin
 git rebase origin/dev
 ```
+
+## Push branch to github
+
+```bash
+git push origin BRANCH_NAME
+```
